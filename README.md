@@ -1,10 +1,5 @@
 # tv_backtest
-無題66
-TradingViewバックテストを自動化する
-140
-ねくすこ
-ねくすこ
-2019年7月26日 22:22
+https://note.com/salink/n/n7fa5dfa9ba20
 
 
 
